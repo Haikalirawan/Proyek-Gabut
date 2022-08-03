@@ -1,0 +1,20 @@
+	*Proyek ini masih dalam tahap building harap berhati hati bila melakukan perubahan kode*
+
+1. Akses Website
+	untuk mengakses proyek ini tergantung dari kalian menempatkan nya dimana. jika hanya copy paste
+folder Perpustakaan silahkan akses ke "http://localhost/Perpustakaan/Proyek/masuk" dan bisa kalian edit dan lihat sendiri
+
+
+2. Silahkan commit (Sangat Penting)
+	Jika kalian melakukan perubahan atau menghapus baris kode silahkan commit diri kalian Di COMMIT.txt
+Example :
+
+_______________________________________________________________________________________________________________	
+	
+	Nama : Fasal Alif Haikal Irawan
+	Judul : Menghapus baris kode ke 112 di file controller/auth.php
+	Judul Tambahan : Menghapus baris kode ke 112 dengan kode = <?= echo('aku siapa?'); ?>
+
+	Waktu : Jam 08.00 Pagi
+	Status : Commit
+_______________________________________________________________________________________________________________

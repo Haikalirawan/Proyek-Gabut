@@ -1,0 +1,31 @@
+			*SILAHKAN COMMIT DIRI KALIAN DENGAN COPY PASTE CONTOH DIBAWAH INI*
+_______________________________________________________________________________________________________________	
+	
+	Nama : 
+	Judul : 
+	Judul Tambahan : 
+
+	Waktu :
+	Status : -> Commit = Sudah disimpan di program
+		 -> Pending = Masih Meminta keputusan
+		 -> Delay = Masih berupa pemikiran belaka
+	
+_______________________________________________________________________________________________________________
+
+
+
+
+
+
+
+					*START FROM HERE*
+_______________________________________________________________________________________________________________	
+	
+	Nama : 
+	Judul : 
+	Judul Tambahan : 
+
+	Waktu : 
+	Status : Commit
+	
+_______________________________________________________________________________________________________________
